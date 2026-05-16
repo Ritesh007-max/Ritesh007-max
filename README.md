@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ritesh Gabale</h1>
-<h3 align="center">🚀 Full Stack MERN Developer | Building Scalable & Real-World Products</h3>
+<h3 align="center">🚀 MERN Stack Developer | Building Scalable & Real-World Products</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=22&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+Focused;Building+Real+World+Projects" />
@@ -17,7 +17,6 @@
 <tr>
 <td width="60%">
 
-- 🎓 Student @ Swaminarayan University, Ahmedabad  
 - 💻 Full Stack Developer specializing in **MERN Stack**  
 - ⚡ Focused on building **real-world, production-ready applications**  
 - 🧠 Currently learning **System Design & Advanced Backend**  
